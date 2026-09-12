@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manish Kumar Jha</h1>
 <h3 align="center">I am passionate Ai Engineering</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jhamanish45&label=Profile%20views&color=0e75b6&style=flat" alt="jhamanish45" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jhamanish45" alt="jhamanish45" /></a> </p>
 
