@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manish Kumar Jha</h1>
 <h3 align="center">I am passionate Ai Engineering</h3>
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jhamanish45" alt="jhamanish45" /></a> </p>
-
 - 🌱 I’m currently learning **Ai engineering**
 
 - 💬 Ask me about **Python,Fastapi,LangChain,LLMs,RAG,**
